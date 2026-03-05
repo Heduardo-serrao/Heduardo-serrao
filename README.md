@@ -1,3 +1,5 @@
+# Olá, eu sou Heduardo Serrão 
+
 📕Estudante UCB 
 
 Estou cursando **ciencia da computação**
@@ -11,6 +13,7 @@ Automações, soluções de problemas, sites
   <a href="https://github.com/Heduardo-serrao">
     <img src="https://img.shields.io/badge/GitHub-Heduardoserrao-181717?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://www.linkedin.com/in/heduardo-da-rocha-serrão-3b41623b5/">
     <img src="https://img.shields.io/badge/linkedin-heduardo-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -33,3 +36,4 @@ Automações, soluções de problemas, sites
 </p>
 
 ---
+
